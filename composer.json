@@ -1,0 +1,12 @@
+{
+    "name": "craigmccoy/craigmccoy.name-redirect",
+    "description": "Placeholder application used to redirect domains.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Craig McCoy",
+            "email": "craigmccoy@gmail.com"
+        }
+    ],
+    "require": {}
+}
